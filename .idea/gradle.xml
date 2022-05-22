@@ -10,6 +10,8 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/kodilla-collections" />
+            <option value="$PROJECT_DIR$/kodilla-collections-advance" />
             <option value="$PROJECT_DIR$/nowa_kodilla-basic-tests" />
           </set>
         </option>
