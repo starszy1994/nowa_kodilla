@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.kodilla.bank.homework.CashMachineTestSuite" tests="13" skipped="0" failures="0" errors="0" timestamp="2022-05-22T13:16:50" hostname="LAPTOP-DRES84GL" time="0.025">
+  <properties/>
+  <testcase name="shouldNotAddDepositToWithdrawals()" classname="com.kodilla.bank.homework.CashMachineTestSuite" time="0.012"/>
+  <testcase name="shouldAddToDepositsPositiveValue()" classname="com.kodilla.bank.homework.CashMachineTestSuite" time="0.001"/>
+  <testcase name="shouldNotAddTransactionZeroValue()" classname="com.kodilla.bank.homework.CashMachineTestSuite" time="0.0"/>
+  <testcase name="shouldAddToWithdrawalsNegativeValue()" classname="com.kodilla.bank.homework.CashMachineTestSuite" time="0.0"/>
+  <testcase name="shouldAddToBalancePositiveValue()" classname="com.kodilla.bank.homework.CashMachineTestSuite" time="0.0"/>
+  <testcase name="shouldSumWithdrawalValues()" classname="com.kodilla.bank.homework.CashMachineTestSuite" time="0.001"/>
+  <testcase name="shouldSubstractFromBalanceNegativeValue()" classname="com.kodilla.bank.homework.CashMachineTestSuite" time="0.0"/>
+  <testcase name="shouldSumDepositValues()" classname="com.kodilla.bank.homework.CashMachineTestSuite" time="0.001"/>
+  <testcase name="shouldNotWithdrawifBalanceNegative()" classname="com.kodilla.bank.homework.CashMachineTestSuite" time="0.0"/>
+  <testcase name="shouldNotAddWithdrawalToDeposits()" classname="com.kodilla.bank.homework.CashMachineTestSuite" time="0.001"/>
+  <testcase name="shouldHaveZeroLength()" classname="com.kodilla.bank.homework.CashMachineTestSuite" time="0.0"/>
+  <testcase name="shouldAddTransaction()" classname="com.kodilla.bank.homework.CashMachineTestSuite" time="0.0"/>
+  <testcase name="shouldDoNothingZeroValue()" classname="com.kodilla.bank.homework.CashMachineTestSuite" time="0.0"/>
+  <system-out><![CDATA[Bilans 10000
+WypĹ‚acono 500
+Saldo 9500
+LÄ…cznie wpĹ‚at: 0
+LÄ…cznie wypĹ‚at: 1
+LÄ…cznie operacji: 1
+Bilans 9500
+WypĹ‚acono 200
+Saldo 9300
+LÄ…cznie wpĹ‚at: 0
+LÄ…cznie wypĹ‚at: 2
+LÄ…cznie operacji: 2
+Bilans 9300
+WpĹ‚acono 400
+Saldo 9700
+LÄ…cznie wpĹ‚at: 1
+LÄ…cznie wypĹ‚at: 2
+LÄ…cznie operacji: 3
+Bilans 10000
+WpĹ‚acono 500
+Saldo 10500
+LÄ…cznie wpĹ‚at: 1
+LÄ…cznie wypĹ‚at: 0
+LÄ…cznie operacji: 1
+Bilans 10000
+WypĹ‚acono 600
+Saldo 9400
+LÄ…cznie wpĹ‚at: 0
+LÄ…cznie wypĹ‚at: 1
+LÄ…cznie operacji: 1
+Bilans 10000
+WpĹ‚acono 400
+Saldo 10400
+LÄ…cznie wpĹ‚at: 1
+LÄ…cznie wypĹ‚at: 0
+LÄ…cznie operacji: 1
+Bilans 10000
+WypĹ‚acono 500
+Saldo 9500
+LÄ…cznie wpĹ‚at: 0
+LÄ…cznie wypĹ‚at: 1
+LÄ…cznie operacji: 1
+Bilans 9500
+WypĹ‚acono 200
+Saldo 9300
+LÄ…cznie wpĹ‚at: 0
+LÄ…cznie wypĹ‚at: 2
+LÄ…cznie operacji: 2
+Bilans 9300
+WypĹ‚acono 400
+Saldo 8900
+LÄ…cznie wpĹ‚at: 0
+LÄ…cznie wypĹ‚at: 3
+LÄ…cznie operacji: 3
+Bilans 10000
+WypĹ‚acono 400
+Saldo 9600
+LÄ…cznie wpĹ‚at: 0
+LÄ…cznie wypĹ‚at: 1
+LÄ…cznie operacji: 1
+Bilans 10000
+WpĹ‚acono 500
+Saldo 10500
+LÄ…cznie wpĹ‚at: 1
+LÄ…cznie wypĹ‚at: 0
+LÄ…cznie operacji: 1
+Bilans 10500
+WpĹ‚acono 200
+Saldo 10700
+LÄ…cznie wpĹ‚at: 2
+LÄ…cznie wypĹ‚at: 0
+LÄ…cznie operacji: 2
+Bilans 10700
+WpĹ‚acono 400
+Saldo 11100
+LÄ…cznie wpĹ‚at: 3
+LÄ…cznie wypĹ‚at: 0
+LÄ…cznie operacji: 3
+Bilans 10000
+Bankomat nie ma Ĺ›rodkĂłw do wykonania wypĹ‚aty.
+Saldo 10000
+LÄ…cznie wpĹ‚at: 0
+LÄ…cznie wypĹ‚at: 0
+LÄ…cznie operacji: 1
+Bilans 10000
+WpĹ‚acono 500
+Saldo 10500
+LÄ…cznie wpĹ‚at: 1
+LÄ…cznie wypĹ‚at: 0
+LÄ…cznie operacji: 1
+Bilans 10500
+WypĹ‚acono 200
+Saldo 10300
+LÄ…cznie wpĹ‚at: 1
+LÄ…cznie wypĹ‚at: 1
+LÄ…cznie operacji: 2
+Bilans 10300
+WpĹ‚acono 400
+Saldo 10700
+LÄ…cznie wpĹ‚at: 2
+LÄ…cznie wypĹ‚at: 1
+LÄ…cznie operacji: 3
+Bilans 10000
+WpĹ‚acono 500
+Saldo 10500
+LÄ…cznie wpĹ‚at: 1
+LÄ…cznie wypĹ‚at: 0
+LÄ…cznie operacji: 1
+Bilans 10500
+WypĹ‚acono 200
+Saldo 10300
+LÄ…cznie wpĹ‚at: 1
+LÄ…cznie wypĹ‚at: 1
+LÄ…cznie operacji: 2
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,3 @@
+rootProject.name = 'nowa kodilla'
+include 'nowa_kodilla-basic-tests'
+
