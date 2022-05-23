@@ -1,120 +1,246 @@
-Bilans 10000
-WypĹ‚acono 500
-Saldo 9500
-LÄ…cznie wpĹ‚at: 0
-LÄ…cznie wypĹ‚at: 1
-LÄ…cznie operacji: 1
-Bilans 9500
-WypĹ‚acono 200
-Saldo 9300
-LÄ…cznie wpĹ‚at: 0
-LÄ…cznie wypĹ‚at: 2
-LÄ…cznie operacji: 2
-Bilans 9300
-WpĹ‚acono 400
-Saldo 9700
+Bilans 5000
+WpĹ‚acono 500
+Saldo 5500
 LÄ…cznie wpĹ‚at: 1
-LÄ…cznie wypĹ‚at: 2
-LÄ…cznie operacji: 3
-Bilans 10000
-WpĹ‚acono 500
-Saldo 10500
-LÄ…cznie wpĹ‚at: 1
-LÄ…cznie wypĹ‚at: 0
-LÄ…cznie operacji: 1
-Bilans 10000
-WypĹ‚acono 600
-Saldo 9400
-LÄ…cznie wpĹ‚at: 0
-LÄ…cznie wypĹ‚at: 1
-LÄ…cznie operacji: 1
-Bilans 10000
-WpĹ‚acono 400
-Saldo 10400
-LÄ…cznie wpĹ‚at: 1
-LÄ…cznie wypĹ‚at: 0
-LÄ…cznie operacji: 1
-Bilans 10000
-WypĹ‚acono 500
-Saldo 9500
-LÄ…cznie wpĹ‚at: 0
-LÄ…cznie wypĹ‚at: 1
-LÄ…cznie operacji: 1
-Bilans 9500
-WypĹ‚acono 200
-Saldo 9300
-LÄ…cznie wpĹ‚at: 0
-LÄ…cznie wypĹ‚at: 2
-LÄ…cznie operacji: 2
-Bilans 9300
-WypĹ‚acono 400
-Saldo 8900
-LÄ…cznie wpĹ‚at: 0
-LÄ…cznie wypĹ‚at: 3
-LÄ…cznie operacji: 3
-Bilans 10000
-WypĹ‚acono 400
-Saldo 9600
-LÄ…cznie wpĹ‚at: 0
-LÄ…cznie wypĹ‚at: 1
-LÄ…cznie operacji: 1
-	Bilans 10000
-	WpĹ‚acono 500
-	Saldo 10500
-	LÄ…cznie wpĹ‚at: 1
-	LÄ…cznie wypĹ‚at: 0
+LÄ…cznie wypĹ‚at: 0
+LÄ…cznie operacji: 1
+Bilans 5500
+WypĹ‚acono 200
+Saldo 5300
+LÄ…cznie wpĹ‚at: 1
+LÄ…cznie wypĹ‚at: 1
+LÄ…cznie operacji: 2
+Bilans 5000
+WpĹ‚acono 400
+Saldo 5400
+LÄ…cznie wpĹ‚at: 1
+LÄ…cznie wypĹ‚at: 0
+LÄ…cznie operacji: 1
+Bilans 5400
+WpĹ‚acono 200
+Saldo 5600
+LÄ…cznie wpĹ‚at: 2
+LÄ…cznie wypĹ‚at: 0
+LÄ…cznie operacji: 2
+Bilans 2000
+WpĹ‚acono 100
+Saldo 2100
+LÄ…cznie wpĹ‚at: 1
+LÄ…cznie wypĹ‚at: 0
+LÄ…cznie operacji: 1
+Bilans 2100
+WpĹ‚acono 100
+Saldo 2200
+LÄ…cznie wpĹ‚at: 2
+LÄ…cznie wypĹ‚at: 0
+LÄ…cznie operacji: 2
+	Bilans 5000
+	WypĹ‚acono 400
+	Saldo 4600
+	LÄ…cznie wpĹ‚at: 0
+	LÄ…cznie wypĹ‚at: 1
 	LÄ…cznie operacji: 1
-	Bilans 10500
-	WpĹ‚acono 200
-	Saldo 10700
-	LÄ…cznie wpĹ‚at: 2
-	LÄ…cznie wypĹ‚at: 0
+	Bilans 4600
+	WypĹ‚acono 200
+	Saldo 4400
+	LÄ…cznie wpĹ‚at: 0
+	LÄ…cznie wypĹ‚at: 2
 	LÄ…cznie operacji: 2
-	Bilans 10700
-	WpĹ‚acono 400
-	Saldo 11100
-	LÄ…cznie wpĹ‚at: 3
-	LÄ…cznie wypĹ‚at: 0
-	LÄ…cznie operacji: 3
+	Bilans 2000
+	WypĹ‚acono 100
+	Saldo 1900
+	LÄ…cznie wpĹ‚at: 0
+	LÄ…cznie wypĹ‚at: 1
+	LÄ…cznie operacji: 1
+	Bilans 1900
+	WypĹ‚acono 100
+	Saldo 1800
+	LÄ…cznie wpĹ‚at: 0
+	LÄ…cznie wypĹ‚at: 2
+	LÄ…cznie operacji: 2
 
-Bilans 10000
+Bilans 5000
 
-:Bankomat nie ma Ĺ›rodkĂłw do wykonania wypĹ‚aty.
+WypĹ‚acono 300
 
-Saldo 10000
+Saldo 4700
 
 LÄ…cznie wpĹ‚at: 0
 
-LÄ…cznie wypĹ‚at: 0
+LÄ…cznie wypĹ‚at: 1
 
 LÄ…cznie operacji: 1
-Bilans 10000
-WpĹ‚acono 500
-Saldo 10500
-LÄ…cznie wpĹ‚at: 1
-LÄ…cznie wypĹ‚at: 0
-LÄ…cznie operacji: 1
-Bilans 10500
-WypĹ‚acono 200
-Saldo 10300
-LÄ…cznie wpĹ‚at: 1
-LÄ…cznie wypĹ‚at: 1
-LÄ…cznie operacji: 2
-Bilans 10300
-WpĹ‚acono 400
-Saldo 10700
-LÄ…cznie wpĹ‚at: 2
-LÄ…cznie wypĹ‚at: 1
-LÄ…cznie operacji: 3
-Bilans 10000
+
+Bilans 2000
+
+WypĹ‚acono 200
+
+Saldo 1800
+
+LÄ…cznie wpĹ‚at: 0
+
+LÄ…cznie wypĹ‚at: 1
+
+LÄ…cznie operacji: 1
+
+Bilans 3000
+
+WypĹ‚acono 500
+
+Saldo 2500
+
+LÄ…cznie wpĹ‚at: 0
+
+LÄ…cznie wypĹ‚at: 1
+
+LÄ…cznie operacji: 1
+Bilans 5000
 WpĹ‚acono 500
-Saldo 10500
+Saldo 5500
 LÄ…cznie wpĹ‚at: 1
 LÄ…cznie wypĹ‚at: 0
 LÄ…cznie operacji: 1
-Bilans 10500
+Bilans 5500
 WypĹ‚acono 200
-Saldo 10300
+Saldo 5300
 LÄ…cznie wpĹ‚at: 1
 LÄ…cznie wypĹ‚at: 1
 LÄ…cznie operacji: 2
+Bilans 5000
+WpĹ‚acono 300
+Saldo 5300
+LÄ…cznie wpĹ‚at: 1
+LÄ…cznie wypĹ‚at: 0
+LÄ…cznie operacji: 1
+Bilans 2000
+WpĹ‚acono 200
+Saldo 2200
+LÄ…cznie wpĹ‚at: 1
+LÄ…cznie wypĹ‚at: 0
+LÄ…cznie operacji: 1
+Bilans 3000
+WpĹ‚acono 500
+Saldo 3500
+LÄ…cznie wpĹ‚at: 1
+LÄ…cznie wypĹ‚at: 0
+LÄ…cznie operacji: 1
+Bilans 10000
+WypĹ‚acono 500
+Saldo 9500
+LÄ…cznie wpĹ‚at: 0
+LÄ…cznie wypĹ‚at: 1
+LÄ…cznie operacji: 1
+Bilans 9500
+WypĹ‚acono 200
+Saldo 9300
+LÄ…cznie wpĹ‚at: 0
+LÄ…cznie wypĹ‚at: 2
+LÄ…cznie operacji: 2
+Bilans 9300
+WpĹ‚acono 400
+Saldo 9700
+LÄ…cznie wpĹ‚at: 1
+LÄ…cznie wypĹ‚at: 2
+LÄ…cznie operacji: 3
+Bilans 10000
+WpĹ‚acono 500
+Saldo 10500
+LÄ…cznie wpĹ‚at: 1
+LÄ…cznie wypĹ‚at: 0
+LÄ…cznie operacji: 1
+Bilans 10000
+WypĹ‚acono 600
+Saldo 9400
+LÄ…cznie wpĹ‚at: 0
+LÄ…cznie wypĹ‚at: 1
+LÄ…cznie operacji: 1
+Bilans 10000
+WpĹ‚acono 400
+Saldo 10400
+LÄ…cznie wpĹ‚at: 1
+LÄ…cznie wypĹ‚at: 0
+LÄ…cznie operacji: 1
+Bilans 10000
+WypĹ‚acono 500
+Saldo 9500
+LÄ…cznie wpĹ‚at: 0
+LÄ…cznie wypĹ‚at: 1
+LÄ…cznie operacji: 1
+Bilans 9500
+WypĹ‚acono 200
+Saldo 9300
+LÄ…cznie wpĹ‚at: 0
+LÄ…cznie wypĹ‚at: 2
+LÄ…cznie operacji: 2
+Bilans 9300
+WypĹ‚acono 400
+Saldo 8900
+LÄ…cznie wpĹ‚at: 0
+LÄ…cznie wypĹ‚at: 3
+LÄ…cznie operacji: 3
+Bilans 10000
+WypĹ‚acono 400
+Saldo 9600
+LÄ…cznie wpĹ‚at: 0
+LÄ…cznie wypĹ‚at: 1
+LÄ…cznie operacji: 1
+Bilans 10000
+WpĹ‚acono 500
+Saldo 10500
+LÄ…cznie wpĹ‚at: 1
+LÄ…cznie wypĹ‚at: 0
+LÄ…cznie operacji: 1
+Bilans 10500
+WpĹ‚acono 200
+Saldo 10700
+LÄ…cznie wpĹ‚at: 2
+LÄ…cznie wypĹ‚at: 0
+LÄ…cznie operacji: 2
+Bilans 10700
+WpĹ‚acono 400
+Saldo 11100
+LÄ…cznie wpĹ‚at: 3
+LÄ…cznie wypĹ‚at: 0
+LÄ…cznie operacji: 3
+Bilans 10000
+:Bankomat nie ma Ĺ›rodkĂłw do wykonania wypĹ‚aty.
+Saldo 10000
+LÄ…cznie wpĹ‚at: 0
+LÄ…cznie wypĹ‚at: 0
+LÄ…cznie operacji: 1
+Bilans 10000
+WpĹ‚acono 500
+Saldo 10500
+LÄ…cznie wpĹ‚at: 1
+LÄ…cznie wypĹ‚at: 0
+LÄ…cznie operacji: 1
+Bilans 10500
+WypĹ‚acono 200
+Saldo 10300
+LÄ…cznie wpĹ‚at: 1
+LÄ…cznie wypĹ‚at: 1
+LÄ…cznie operacji: 2
+Bilans 10300
+WpĹ‚acono 400
+Saldo 10700
+LÄ…cznie wpĹ‚at: 2
+LÄ…cznie wypĹ‚at: 1
+LÄ…cznie operacji: 3
+Bilans 10000
+WpĹ‚acono 500
+Saldo 10500
+LÄ…cznie wpĹ‚at: 1
+LÄ…cznie wypĹ‚at: 0
+LÄ…cznie operacji: 1
+Bilans 10500
+WypĹ‚acono 200
+Saldo 10300
+LÄ…cznie wpĹ‚at: 1
+LÄ…cznie wypĹ‚at: 1
+LÄ…cznie operacji: 2
+$#Test number 1
+$%Test number 2
+$&Test number 3
+$'Test number 4
+$(Test number 5
+$)Test number 6

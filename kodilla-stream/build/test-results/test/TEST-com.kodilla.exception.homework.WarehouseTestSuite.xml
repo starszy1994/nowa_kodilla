@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.kodilla.exception.homework.WarehouseTestSuite" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-05-23T20:51:06" hostname="LAPTOP-DRES84GL" time="0.043">
+  <properties/>
+  <testcase name="testIsOrderInSystem_withException()" classname="com.kodilla.exception.homework.WarehouseTestSuite" time="0.04"/>
+  <testcase name="testIsOrderInSystem()" classname="com.kodilla.exception.homework.WarehouseTestSuite" time="0.003"/>
+  <system-out><![CDATA[Searching order number: abcd
+Order com.kodilla.exception.homework.Order@5a3e5769
+Searching order number: 22022
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

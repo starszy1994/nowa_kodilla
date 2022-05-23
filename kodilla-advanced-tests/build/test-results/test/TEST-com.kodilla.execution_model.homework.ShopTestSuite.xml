@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.kodilla.execution_model.homework.ShopTestSuite" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-05-23T20:50:55" hostname="LAPTOP-DRES84GL" time="0.046">
+  <properties/>
+  <testcase name="shouldReturnNumberOrders()" classname="com.kodilla.execution_model.homework.ShopTestSuite" time="0.022"/>
+  <testcase name="shouldReturnAllOrdersValue()" classname="com.kodilla.execution_model.homework.ShopTestSuite" time="0.005"/>
+  <testcase name="shouldReturnOrdersFromTwoYears()" classname="com.kodilla.execution_model.homework.ShopTestSuite" time="0.014"/>
+  <testcase name="shouldAddOrderToList()" classname="com.kodilla.execution_model.homework.ShopTestSuite" time="0.001"/>
+  <testcase name="shouldReturnMaxAndMinOrderValue()" classname="com.kodilla.execution_model.homework.ShopTestSuite" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

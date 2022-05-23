@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.kodilla.execution_model.InvoiceTestSuite" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-05-23T20:50:55" hostname="LAPTOP-DRES84GL" time="0.01">
+  <properties/>
+  <testcase name="shouldAddItemsToInvoice()" classname="com.kodilla.execution_model.InvoiceTestSuite" time="0.003"/>
+  <testcase name="shouldClearInvoice()" classname="com.kodilla.execution_model.InvoiceTestSuite" time="0.001"/>
+  <testcase name="shouldReturnNullWhenPassingNegativeIndex()" classname="com.kodilla.execution_model.InvoiceTestSuite" time="0.002"/>
+  <testcase name="shouldReturnNullWhenPassingOutOfRangeIndex()" classname="com.kodilla.execution_model.InvoiceTestSuite" time="0.001"/>
+  <testcase name="shouldGetExistingItem()" classname="com.kodilla.execution_model.InvoiceTestSuite" time="0.0"/>
+  <system-out><![CDATA[Starting testing
+Resetting values...
+Resetting values...
+Resetting values...
+Resetting values...
+Resetting values...
+Finishing testing
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.kodilla.parametrized_tests.StringManipulatorTestSuite" tests="15" skipped="0" failures="0" errors="0" timestamp="2022-05-23T20:50:56" hostname="LAPTOP-DRES84GL" time="0.051">
+  <properties/>
+  <testcase name="[1] test, 4" classname="com.kodilla.parametrized_tests.StringManipulatorTestSuite" time="0.001"/>
+  <testcase name="[2] OtHEr , 5" classname="com.kodilla.parametrized_tests.StringManipulatorTestSuite" time="0.0"/>
+  <testcase name="[3] E V e n t, 5" classname="com.kodilla.parametrized_tests.StringManipulatorTestSuite" time="0.0"/>
+  <testcase name="[4] null , 4" classname="com.kodilla.parametrized_tests.StringManipulatorTestSuite" time="0.0"/>
+  <testcase name="[5] A, 1" classname="com.kodilla.parametrized_tests.StringManipulatorTestSuite" time="0.001"/>
+  <testcase name="[1] te,st, 1" classname="com.kodilla.parametrized_tests.StringManipulatorTestSuite" time="0.001"/>
+  <testcase name="[2] ..OtHEr, 0" classname="com.kodilla.parametrized_tests.StringManipulatorTestSuite" time="0.0"/>
+  <testcase name="[3] E,V,e,n.t, 3" classname="com.kodilla.parametrized_tests.StringManipulatorTestSuite" time="0.0"/>
+  <testcase name="[4] null, 0" classname="com.kodilla.parametrized_tests.StringManipulatorTestSuite" time="0.0"/>
+  <testcase name="[5] A, 0" classname="com.kodilla.parametrized_tests.StringManipulatorTestSuite" time="0.0"/>
+  <testcase name="[1] test, tset" classname="com.kodilla.parametrized_tests.StringManipulatorTestSuite" time="0.0"/>
+  <testcase name="[2] oThEr, rehto" classname="com.kodilla.parametrized_tests.StringManipulatorTestSuite" time="0.001"/>
+  <testcase name="[3] Event, tneve" classname="com.kodilla.parametrized_tests.StringManipulatorTestSuite" time="0.0"/>
+  <testcase name="[4] null, llun" classname="com.kodilla.parametrized_tests.StringManipulatorTestSuite" time="0.001"/>
+  <testcase name="[5] A, a" classname="com.kodilla.parametrized_tests.StringManipulatorTestSuite" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.kodilla.basic_assertion.school.GradesTestSuite" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-05-23T20:51:09" hostname="LAPTOP-DRES84GL" time="0.002">
+  <properties/>
+  <testcase name="shouldReturnAverageEqualsZeroIsArrayIsEmpty()" classname="com.kodilla.basic_assertion.school.GradesTestSuite" time="0.001"/>
+  <testcase name="shouldAddTwoElementsToArray()" classname="com.kodilla.basic_assertion.school.GradesTestSuite" time="0.001"/>
+  <testcase name="shouldHaveZeroLength()" classname="com.kodilla.basic_assertion.school.GradesTestSuite" time="0.0"/>
+  <testcase name="shouldCalculateAverage()" classname="com.kodilla.basic_assertion.school.GradesTestSuite" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

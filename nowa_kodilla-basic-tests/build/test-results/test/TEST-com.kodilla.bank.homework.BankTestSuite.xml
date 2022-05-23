@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.kodilla.bank.homework.BankTestSuite" tests="13" skipped="0" failures="0" errors="0" timestamp="2022-05-23T20:51:08" hostname="LAPTOP-DRES84GL" time="0.039">
+  <properties/>
+  <testcase name="shouldAddToBalanceFromBank()" classname="com.kodilla.bank.homework.BankTestSuite" time="0.015"/>
+  <testcase name="shouldNotCountTotalZeroDeposits()" classname="com.kodilla.bank.homework.BankTestSuite" time="0.001"/>
+  <testcase name="shouldCountDepositAverage()" classname="com.kodilla.bank.homework.BankTestSuite" time="0.004"/>
+  <testcase name="shouldNotCountAverageZeroWithdrawals()" classname="com.kodilla.bank.homework.BankTestSuite" time="0.0"/>
+  <testcase name="shouldNotCountAverageZeroDeposits()" classname="com.kodilla.bank.homework.BankTestSuite" time="0.0"/>
+  <testcase name="shouldNotCountTotalZeroWithdrawals()" classname="com.kodilla.bank.homework.BankTestSuite" time="0.002"/>
+  <testcase name="shouldCountTotalBalance()" classname="com.kodilla.bank.homework.BankTestSuite" time="0.001"/>
+  <testcase name="shouldCountWithdrawalAverage()" classname="com.kodilla.bank.homework.BankTestSuite" time="0.002"/>
+  <testcase name="shouldCountTotalWithdrawal()" classname="com.kodilla.bank.homework.BankTestSuite" time="0.002"/>
+  <testcase name="shouldHaveZeroLength()" classname="com.kodilla.bank.homework.BankTestSuite" time="0.0"/>
+  <testcase name="shouldAddMachine()" classname="com.kodilla.bank.homework.BankTestSuite" time="0.0"/>
+  <testcase name="shouldAddTransaction()" classname="com.kodilla.bank.homework.BankTestSuite" time="0.001"/>
+  <testcase name="shouldCountTotalDeposit()" classname="com.kodilla.bank.homework.BankTestSuite" time="0.002"/>
+  <system-out><![CDATA[Bilans 5000
+WpĹ‚acono 500
+Saldo 5500
+LÄ…cznie wpĹ‚at: 1
+LÄ…cznie wypĹ‚at: 0
+LÄ…cznie operacji: 1
+Bilans 5500
+WypĹ‚acono 200
+Saldo 5300
+LÄ…cznie wpĹ‚at: 1
+LÄ…cznie wypĹ‚at: 1
+LÄ…cznie operacji: 2
+Bilans 5000
+WpĹ‚acono 400
+Saldo 5400
+LÄ…cznie wpĹ‚at: 1
+LÄ…cznie wypĹ‚at: 0
+LÄ…cznie operacji: 1
+Bilans 5400
+WpĹ‚acono 200
+Saldo 5600
+LÄ…cznie wpĹ‚at: 2
+LÄ…cznie wypĹ‚at: 0
+LÄ…cznie operacji: 2
+Bilans 2000
+WpĹ‚acono 100
+Saldo 2100
+LÄ…cznie wpĹ‚at: 1
+LÄ…cznie wypĹ‚at: 0
+LÄ…cznie operacji: 1
+Bilans 2100
+WpĹ‚acono 100
+Saldo 2200
+LÄ…cznie wpĹ‚at: 2
+LÄ…cznie wypĹ‚at: 0
+LÄ…cznie operacji: 2
+Bilans 5000
+WypĹ‚acono 400
+Saldo 4600
+LÄ…cznie wpĹ‚at: 0
+LÄ…cznie wypĹ‚at: 1
+LÄ…cznie operacji: 1
+Bilans 4600
+WypĹ‚acono 200
+Saldo 4400
+LÄ…cznie wpĹ‚at: 0
+LÄ…cznie wypĹ‚at: 2
+LÄ…cznie operacji: 2
+Bilans 2000
+WypĹ‚acono 100
+Saldo 1900
+LÄ…cznie wpĹ‚at: 0
+LÄ…cznie wypĹ‚at: 1
+LÄ…cznie operacji: 1
+Bilans 1900
+WypĹ‚acono 100
+Saldo 1800
+LÄ…cznie wpĹ‚at: 0
+LÄ…cznie wypĹ‚at: 2
+LÄ…cznie operacji: 2
+Bilans 5000
+WypĹ‚acono 300
+Saldo 4700
+LÄ…cznie wpĹ‚at: 0
+LÄ…cznie wypĹ‚at: 1
+LÄ…cznie operacji: 1
+Bilans 2000
+WypĹ‚acono 200
+Saldo 1800
+LÄ…cznie wpĹ‚at: 0
+LÄ…cznie wypĹ‚at: 1
+LÄ…cznie operacji: 1
+Bilans 3000
+WypĹ‚acono 500
+Saldo 2500
+LÄ…cznie wpĹ‚at: 0
+LÄ…cznie wypĹ‚at: 1
+LÄ…cznie operacji: 1
+Bilans 5000
+WpĹ‚acono 500
+Saldo 5500
+LÄ…cznie wpĹ‚at: 1
+LÄ…cznie wypĹ‚at: 0
+LÄ…cznie operacji: 1
+Bilans 5500
+WypĹ‚acono 200
+Saldo 5300
+LÄ…cznie wpĹ‚at: 1
+LÄ…cznie wypĹ‚at: 1
+LÄ…cznie operacji: 2
+Bilans 5000
+WpĹ‚acono 300
+Saldo 5300
+LÄ…cznie wpĹ‚at: 1
+LÄ…cznie wypĹ‚at: 0
+LÄ…cznie operacji: 1
+Bilans 2000
+WpĹ‚acono 200
+Saldo 2200
+LÄ…cznie wpĹ‚at: 1
+LÄ…cznie wypĹ‚at: 0
+LÄ…cznie operacji: 1
+Bilans 3000
+WpĹ‚acono 500
+Saldo 3500
+LÄ…cznie wpĹ‚at: 1
+LÄ…cznie wypĹ‚at: 0
+LÄ…cznie operacji: 1
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
