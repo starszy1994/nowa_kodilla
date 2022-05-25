@@ -35,6 +35,6 @@ class GamblingMachineTestSuite {
         } catch (InvalidNumbersException e) {
             e.printStackTrace();
         }
-        assertEquals(0, result, 6);
+        assertTrue(result >= 0 && result <=6);
     }
 }

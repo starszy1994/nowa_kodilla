@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.kodilla.parametrized_tests.StringValidatorTestSuite" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-05-23T20:50:56" hostname="LAPTOP-DRES84GL" time="0.0">
-  <properties/>
-  <testcase name="[1] null" classname="com.kodilla.parametrized_tests.StringValidatorTestSuite" time="0.0"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
