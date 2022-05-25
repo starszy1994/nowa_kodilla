@@ -2,26 +2,26 @@ package com.kodilla.collections.adv.immutable.special.homework;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.HashMap;
-import java.util.Map;
 
 public class BookManager {
-
-    private static List<Book> bookList = new ArrayList<>();
+    public static List<Book> books = new ArrayList<>();
 
     public static Book createBook(String title, String author) {
-        Book book = new Book(title, author);
-        return book;
-    }
-    public List<Book> getBookList() {
-        return bookList;
-    }
+        Book randomNewBook = new Book(title, author);
 
-    public void addToList (Book firstBook) {
-        if (!bookList.contains(firstBook)) {
-            bookList.add(firstBook);
-        } else {
-            System.out.println("The book exists");
+        if (books.size() == 0) {
+            books.add(randomNewBook);
         }
+
+        for (int n = 0; n < books.size(); n++)
+            if (randomNewBook.equals(books.get(n))) {
+                System.out.println("The book exist");
+                return books.get(n);
+            } else {
+                books.add(randomNewBook);
+                return randomNewBook;
+            }
+        System.out.println("The book does not exist");
+        return randomNewBook;
     }
 }

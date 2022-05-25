@@ -2,14 +2,15 @@ package com.kodilla.collections.adv.immutable.special.homework;
 
 public class BookApplication {
     public static void main(String[] args) {
-        BookManager bookManager1 = new BookManager();
-        Book firstBook = bookManager1.createBook("Born a Crime", "Trevor Noah");
+        Book firstBook = BookManager.createBook("Born a Crime", "Trevor Noah");
+        Book secondBook = BookManager.createBook("Born a Crime", "Trevor Noah");
+        Book thirdBook = BookManager.createBook("Origin", "Dan Brown");
 
-        bookManager1.addToList(firstBook);
-        Book secondBook = bookManager1.createBook("Born a Crime", "Trevor Noah");
+        System.out.println(firstBook == secondBook);
+        System.out.println(firstBook == thirdBook);
+        System.out.println(secondBook == thirdBook);
 
-        bookManager1.addToList(secondBook);
-        Book thirdBook = bookManager1.createBook("Origin", "Dan Brown");
-        bookManager1.addToList(thirdBook);
+        System.out.println(BookManager.createBook("Born a Crime", "Trevor Noah"));
+        System.out.println(firstBook == BookManager.createBook("Born a Crime", "Trevor Noah"));
     }
 }
