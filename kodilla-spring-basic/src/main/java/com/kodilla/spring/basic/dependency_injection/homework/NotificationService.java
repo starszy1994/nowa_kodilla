@@ -1,5 +1,8 @@
 package com.kodilla.spring.basic.dependency_injection.homework;
 
+import org.springframework.stereotype.Component;
+
+@Component
 public class NotificationService {
 
     public String success(String address) {
