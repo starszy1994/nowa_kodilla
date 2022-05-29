@@ -1,33 +1,46 @@
-//package com.kodilla.spring.basic.spring_configuration.homework;
-//
-//import java.time.LocalTime;
-//
-//public class Sedan implements Car {
-//
-//    private LocalTime chosenTime = LocalTime.of(0, 0);
-//
-//    @Override
-//    public boolean hasHeadLightsTurnedOn() {
-//        if (chosenTime.isAfter(LocalTime.of(0, 0)) && chosenTime.isBefore(LocalTime.of(6, 0)) || chosenTime.equals(LocalTime.of(0, 0))) {
-//            System.out.println("Lights are turned on");
-//            return true;
-//        } else if (chosenTime.isAfter(LocalTime.of(6, 1)) && chosenTime.isBefore(LocalTime.of(20, 0))) {
-//            System.out.println("Lights are turned off");
-//            return false;
-//        } else if (chosenTime.ifAfter(LocalTime.of(20, 1)) && chosenTime.isBefore(LocalTime.of(23, 59))) {
-//            System.out.println("Lights are turned on");
-//            return true;
-//        }
-//        return false;
-//    }
-//
-//    @Override
-//    public String getCarType() {
-//        return "SEDAN";
-//    }
-//
-//    @Override
-//    public void setChosenTime(LocalTime chosenTime) {
-//        this.chosenTime = chosenTime;
-//    }
-//}
+package com.kodilla.spring.basic.spring_configuration.homework;
+
+import java.util.Random;
+
+public class Sedan implements Car {
+
+    boolean hasHeadlightsTurnedOn = false;
+
+    @Override
+    public boolean hasHeadlightsOn() {
+        return hasHeadlightsTurnedOn;
+    }
+
+    @Override
+    public void turnLights(String onOff) {
+        if(onOff == "off") {
+            this.hasHeadlightsTurnedOn = false;
+        }
+        else if(onOff == "on") {
+            this.hasHeadlightsTurnedOn = true;
+        }
+        else {
+            System.out.println("Error");
+        }
+    }
+
+    @Override
+    public boolean turnLightsDependingOnHour() {
+        Random generator = new Random();
+        int hour = generator.nextInt(24);
+        System.out.println("Hour: " + hour);
+        if(hour < 6 || hour >= 20) {
+            this.hasHeadlightsTurnedOn = true;
+        }
+        else {
+            this.hasHeadlightsTurnedOn = false;
+        }
+        System.out.println("Headlights depending on hour: " + this.hasHeadlightsOn());
+        return this.hasHeadlightsOn();
+    }
+
+    @Override
+    public String getCarType() {
+        return "Sedan";
+    }
+}
