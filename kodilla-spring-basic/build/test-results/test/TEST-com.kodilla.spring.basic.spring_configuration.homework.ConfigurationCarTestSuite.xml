@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.kodilla.spring.basic.spring_configuration.homework.ConfigurationCarTestSuite" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-05-29T16:35:02" hostname="LAPTOP-DRES84GL" time="0.03">
+  <properties/>
+  <testcase name="shouldCreateTestCar()" classname="com.kodilla.spring.basic.spring_configuration.homework.ConfigurationCarTestSuite" time="0.002"/>
+  <testcase name="shouldCreateCarBeanByRandomSeason()" classname="com.kodilla.spring.basic.spring_configuration.homework.ConfigurationCarTestSuite" time="0.001"/>
+  <testcase name="shouldCreateCarBeanAndFetchByBeanName()" classname="com.kodilla.spring.basic.spring_configuration.homework.ConfigurationCarTestSuite" time="0.002"/>
+  <testcase name="shouldTurnHeadlightsOnDependingOnHour()" classname="com.kodilla.spring.basic.spring_configuration.homework.ConfigurationCarTestSuite" time="0.001"/>
+  <system-out><![CDATA[2022-05-29 18:35:02.324  INFO 18828 --- [    Test worker] .b.t.c.SpringBootTestContextBootstrapper : Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.kodilla.spring.basic.spring_configuration.homework.ConfigurationCarTestSuite], using SpringBootContextLoader
+2022-05-29 18:35:02.324  INFO 18828 --- [    Test worker] o.s.t.c.support.AbstractContextLoader    : Could not detect default resource locations for test class [com.kodilla.spring.basic.spring_configuration.homework.ConfigurationCarTestSuite]: no resource found for suffixes {-context.xml, Context.groovy}.
+2022-05-29 18:35:02.324  INFO 18828 --- [    Test worker] t.c.s.AnnotationConfigContextLoaderUtils : Could not detect default configuration classes for test class [com.kodilla.spring.basic.spring_configuration.homework.ConfigurationCarTestSuite]: ConfigurationCarTestSuite does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2022-05-29 18:35:02.324  INFO 18828 --- [    Test worker] .b.t.c.SpringBootTestContextBootstrapper : Found @SpringBootConfiguration com.kodilla.spring.basic.SpringBasicRunner for test class com.kodilla.spring.basic.spring_configuration.homework.ConfigurationCarTestSuite
+2022-05-29 18:35:02.324  INFO 18828 --- [    Test worker] .b.t.c.SpringBootTestContextBootstrapper : Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.event.ApplicationEventsTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener]
+2022-05-29 18:35:02.340  INFO 18828 --- [    Test worker] .b.t.c.SpringBootTestContextBootstrapper : Using TestExecutionListeners: [org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@74fd06c4, org.springframework.test.context.event.ApplicationEventsTestExecutionListener@1c8926f5, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@34ba6fdd, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@5818fd16, org.springframework.test.context.support.DirtiesContextTestExecutionListener@44cf0bf7, org.springframework.test.context.event.EventPublishingTestExecutionListener@11242315, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@7687726b, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@6968d1e0, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@5544ef89, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@65c852bf, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener@28117047, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@7594374]
+It's AUTUMNget Sedan
+Hour: 0
+Headlights depending on hour: true
+It's SUMMER get Cabrio
+Hour: 3
+Headlights depending on hour: true
+Cabrio
+It's AUTUMNget Sedan
+Hour: 7
+Headlights depending on hour: false
+It's AUTUMNget Sedan
+Hour: 0
+Headlights depending on hour: true
+true
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

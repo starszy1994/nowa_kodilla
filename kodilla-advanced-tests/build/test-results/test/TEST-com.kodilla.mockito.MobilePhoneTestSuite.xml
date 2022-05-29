@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.kodilla.mockito.MobilePhoneTestSuite" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-05-29T16:30:08" hostname="LAPTOP-DRES84GL" time="0.013">
+  <properties/>
+  <testcase name="testDefaultBehaviourOfTestDouble()" classname="com.kodilla.mockito.MobilePhoneTestSuite" time="0.001"/>
+  <testcase name="testExpectation()" classname="com.kodilla.mockito.MobilePhoneTestSuite" time="0.01"/>
+  <testcase name="shouldCallLaunchApplication()" classname="com.kodilla.mockito.MobilePhoneTestSuite" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

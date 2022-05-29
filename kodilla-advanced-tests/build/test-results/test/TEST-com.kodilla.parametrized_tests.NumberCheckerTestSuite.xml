@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.kodilla.parametrized_tests.NumberCheckerTestSuite" tests="12" skipped="0" failures="0" errors="0" timestamp="2022-05-29T16:30:08" hostname="LAPTOP-DRES84GL" time="0.015">
+  <properties/>
+  <testcase name="[1] 0" classname="com.kodilla.parametrized_tests.NumberCheckerTestSuite" time="0.0"/>
+  <testcase name="[2] 3" classname="com.kodilla.parametrized_tests.NumberCheckerTestSuite" time="0.0"/>
+  <testcase name="[3] 6" classname="com.kodilla.parametrized_tests.NumberCheckerTestSuite" time="0.001"/>
+  <testcase name="[4] -3" classname="com.kodilla.parametrized_tests.NumberCheckerTestSuite" time="0.001"/>
+  <testcase name="[5] -12" classname="com.kodilla.parametrized_tests.NumberCheckerTestSuite" time="0.001"/>
+  <testcase name="[6] 15" classname="com.kodilla.parametrized_tests.NumberCheckerTestSuite" time="0.0"/>
+  <testcase name="[1] -2" classname="com.kodilla.parametrized_tests.NumberCheckerTestSuite" time="0.0"/>
+  <testcase name="[2] -1" classname="com.kodilla.parametrized_tests.NumberCheckerTestSuite" time="0.001"/>
+  <testcase name="[3] 1" classname="com.kodilla.parametrized_tests.NumberCheckerTestSuite" time="0.0"/>
+  <testcase name="[4] 2" classname="com.kodilla.parametrized_tests.NumberCheckerTestSuite" time="0.0"/>
+  <testcase name="[5] 4" classname="com.kodilla.parametrized_tests.NumberCheckerTestSuite" time="0.0"/>
+  <testcase name="[6] 5" classname="com.kodilla.parametrized_tests.NumberCheckerTestSuite" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

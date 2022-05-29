@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.kodilla.parametrized_tests.homework.GamblingMachineTestSuite" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-05-25T21:30:51" hostname="LAPTOP-DRES84GL" time="0.142">
+<testsuite name="com.kodilla.parametrized_tests.homework.GamblingMachineTestSuite" tests="8" skipped="0" failures="0" errors="0" timestamp="2022-05-29T16:30:08" hostname="LAPTOP-DRES84GL" time="0.066">
   <properties/>
-  <testcase name="[1] 1" classname="com.kodilla.parametrized_tests.homework.GamblingMachineTestSuite" time="0.077"/>
-  <testcase name="[2] 2" classname="com.kodilla.parametrized_tests.homework.GamblingMachineTestSuite" time="0.019"/>
-  <testcase name="[3] 1" classname="com.kodilla.parametrized_tests.homework.GamblingMachineTestSuite" time="0.016"/>
-  <testcase name="[4] -1" classname="com.kodilla.parametrized_tests.homework.GamblingMachineTestSuite" time="0.011"/>
+  <testcase name="[1] 1" classname="com.kodilla.parametrized_tests.homework.GamblingMachineTestSuite" time="0.027"/>
+  <testcase name="[2] 2" classname="com.kodilla.parametrized_tests.homework.GamblingMachineTestSuite" time="0.007"/>
+  <testcase name="[3] 1" classname="com.kodilla.parametrized_tests.homework.GamblingMachineTestSuite" time="0.009"/>
+  <testcase name="[4] -1" classname="com.kodilla.parametrized_tests.homework.GamblingMachineTestSuite" time="0.005"/>
+  <testcase name="[1] 1" classname="com.kodilla.parametrized_tests.homework.GamblingMachineTestSuite" time="0.001"/>
+  <testcase name="[2] 2" classname="com.kodilla.parametrized_tests.homework.GamblingMachineTestSuite" time="0.001"/>
+  <testcase name="[3] 1" classname="com.kodilla.parametrized_tests.homework.GamblingMachineTestSuite" time="0.001"/>
+  <testcase name="[4] -1" classname="com.kodilla.parametrized_tests.homework.GamblingMachineTestSuite" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[com.kodilla.parametrized_tests.homework.InvalidNumbersException: Wrong numbers provided
 	at com.kodilla.parametrized_tests.homework.GamblingMachine.validateNumbers(GamblingMachine.java:23)

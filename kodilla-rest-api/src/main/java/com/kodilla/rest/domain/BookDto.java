@@ -1,17 +1,17 @@
-package com.kodilla.rest.controller;
+package com.kodilla.rest.domain;
 
 import java.util.Objects;
 
 public class BookDto {
+
     private String title;
     private String author;
 
-    public BookDto(){
-    }
+    public BookDto(){ }
 
-    public BookDto (String tittle, String author) {
-        this.title = tittle;
-        this.author = author;
+    public BookDto(String title, String author){
+        this.title = title;
+        this.author  = author;
     }
 
     public String getTitle() {
