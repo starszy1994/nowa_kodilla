@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cash Withdrawal" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-06-01T20:33:56" hostname="LAPTOP-DRES84GL" time="0.094">
+  <properties/>
+  <testcase name="Successful or unsuccessful withdrawal from a wallet in credit" classname="Cash Withdrawal" time="0.09"/>
+  <testcase name="Successful or unsuccessful withdrawal from a wallet in credit" classname="Cash Withdrawal" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
